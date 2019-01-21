@@ -1,0 +1,21 @@
+.slika {
+
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  align: middle;
+  
+
+
+}
+.search-bar {
+  position: relative;
+  margin-left: 50px;
+
+}
+
+input {
+  width: 800px;
+}
